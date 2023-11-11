@@ -8,7 +8,7 @@ app = FastAPI()
 class req(BaseModel):
     image_path: str
 
-@app.post('/item/')
+@app.post('/')
 def post_test(item: req):
     return {
     "success": "true",
