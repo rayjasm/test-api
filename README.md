@@ -1,5 +1,5 @@
 # test-api
-for testing mock-up with fastAPI<br>
+mock-up with fastAPI<br>
 <br>
 Installation<br>
 pip install fastapi uvicorn<br>
